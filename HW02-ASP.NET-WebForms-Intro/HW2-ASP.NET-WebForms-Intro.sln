@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleASPX", "SimpleASPX\SimpleASPX.csproj", "{43A46D10-86D0-4DD6-B24B-8C9E8F0EFB85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloASP.NET", "HelloASP.NET\HelloASP.NET.csproj", "{7FD61699-100A-4C0F-9FF3-EE2F86BA502B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageExecutionEventsDumper", "PageExecutionEventsDumper\PageExecutionEventsDumper.csproj", "{D68884B5-431E-4E55-9C8D-55EF145521B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A46D10-86D0-4DD6-B24B-8C9E8F0EFB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A46D10-86D0-4DD6-B24B-8C9E8F0EFB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A46D10-86D0-4DD6-B24B-8C9E8F0EFB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A46D10-86D0-4DD6-B24B-8C9E8F0EFB85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD61699-100A-4C0F-9FF3-EE2F86BA502B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD61699-100A-4C0F-9FF3-EE2F86BA502B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD61699-100A-4C0F-9FF3-EE2F86BA502B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD61699-100A-4C0F-9FF3-EE2F86BA502B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D68884B5-431E-4E55-9C8D-55EF145521B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68884B5-431E-4E55-9C8D-55EF145521B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68884B5-431E-4E55-9C8D-55EF145521B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68884B5-431E-4E55-9C8D-55EF145521B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

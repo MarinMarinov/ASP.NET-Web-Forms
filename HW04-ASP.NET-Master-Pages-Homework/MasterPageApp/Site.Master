@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true"
+    CodeBehind="Site.Master.cs" Inherits="MasterPageApp.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>MyApp</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to MyApp</h1>
+    </header>
+    <aside>
+        <ul>
+            <li><a href="PersonalInfo.aspx">Personal Info</a></li>
+            <li><a href="AdditionalInfo.aspx">Additional info</a></li>
+            <li><a href="Friends.aspx">Friends</a></li>
+            <li><a href="About.aspx">About</a></li>
+        </ul>
+    </aside>
+
+    <section>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </section>
+
+    <footer>
+        <p>MyApp 2016</p>
+    </footer>
+</body>
+</html>

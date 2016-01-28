@@ -1,0 +1,174 @@
+1. Clear install with Outlook and Chrom and SQL Server(Database Engine and Managment Tools)
+Result: 22.822
+
+Added
+2. Globul Conection Center
+3. ESET Nod 32
+Result: 34.71
+Result: 32.245
+
+Added
+4. Visual Studio 2015
+Result: 30.966
+Result: 32.058
+
+Added
+5. Resharper and dotCover
+6. Skype
+7. Git for Windows
+8. TortoiseGit
+Result: 35.381
+Result: 37.019
+
+Added
+9. Webstorm 10.0.4
+10.Node.js
+Result: 36.332
+
+Added
+11. Productivity Power Tools for Visual Studio
+12. MarkdownPad2
+Result: 30.903
+
+Added
+13. DigitalSignature sertificate - BankService
+14. Java
+Result: 27.908
+
+Added
+15. SpelChecker fo Resharper
+16. UBB Digital sertificate
+Result: 33.023
+
+Added
+17. Daemon Tools 
+18. VS2013 Ultimate
+19. Resharper for VS2013
+Result: 33.293
+
+Added
+20. 38 Windows updates
+Result: 38.6
+
+Added
+21. More Windows Updates
+Result: 35.599
+Result: 34.429
+
+Added
+22. MySQL Server 5.6....
+Result: 
+
+Added
+23. Java X64
+24. Adobe CS6 x64
+Result: 30.092
+
+Added
+25. Acrobat Reader
+Result: 32.573
+
+Added
+26. Autocad
+27. Snadcastle
+28. Ditto
+29. 
+Result: 43.317
+Result: 32.354
+
+Added
+30. MS Access Database Engine 2010
+31. Notepad++ DSpellChaeck plugin
+32. Bulgarian and English dictionary for Notepad++
+33. LINQPAd 4.0
+34. MongoDb 2.6
+35. Perforce helix
+
+
+Imot.bg:
+ticha_96@abv.bg - hrabar1
+civilia@abv.bg - Hrabar1948
+
+imoti.net
+Civilia-hrabar1
+
+Microsoft account(via VIsualStudio)
+marin.telerik@gmail.com
+hrabar1948
+
+Visual STudio account https://app.vssps.visualstudio.com/profile/view?mkt=en-US
+marin.telerik@gmail.com
+hrabar1948
+
+
+UBB firm
+8427009411
+Hrabar@1948
+
+UBBprivate
+84270351
+Hrabar@1948
+
+
+GitHub
+marin.telerik@gmail.com
+hrabar1
+
+Skype
+marin.r.marinov
+hrabar1
+
+MySQL Server
+account root
+hrabar1
+
+civilia@abv.bg
+Hrabar1948
+
+ticha_96@abv.bg
+Hrabar1948
+
+Resharper - activation
+WwW.DownLoadLy.iR
+1-O0Lv2BHd29Vmo92JD583KUcrEK+MYVZk
+
+efaktura.bg
+mr_marinov@abv.bg
+hrabar1
+
+www.e-invoice.bg
+mr_marinov@abv.bg
+hrabar1948
+
+marinov_mr@mail.ru
+hrabar1
+
+ch_hrabar@abv.bg
+hrabar1
+
+telenor
+0898561416
+hrabar1
+
+http://www.shumen-city.com/
+MarinMarinov
+MarinMarinov
+ticha_96@abv.bg
+hrabar1
+
+https://my.olympus-consumer.com/
+MarinMarinov
+mr_marinov@abv.bg
+hrabar1
+
+rezzo.bg
+mr_marinov@abv.bg
+hrabar1
+
+jobvite
+marin.telerik@gmail.com
+Hrabar1948
+
+telerik.com
+marin.telerik@gmail.com
+Hrabar1948

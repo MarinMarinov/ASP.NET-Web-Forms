@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumbersHTMLControls", "RandomNumbersHTMLControls\RandomNumbersHTMLControls.csproj", "{EA5DF5CB-B100-4306-BD75-B379D4ED561A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumbersWebControls", "RandomNumbersWebControls\RandomNumbersWebControls.csproj", "{1D297713-1CBC-404B-B545-20CFA9F7BB70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapingHTMLTags", "EscapingHTMLTags\EscapingHTMLTags.csproj", "{0159525C-B400-4C7B-883A-DDF3D9655D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputForm", "InputForm\InputForm.csproj", "{7931F941-442C-42D4-971F-B4B153CADE27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeGame", "TicTacToeGame\TicTacToeGame.csproj", "{AF48B521-9AF2-4F85-B922-197937184C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{91B81F38-F21F-4F37-B284-04C36A657F25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA5DF5CB-B100-4306-BD75-B379D4ED561A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5DF5CB-B100-4306-BD75-B379D4ED561A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5DF5CB-B100-4306-BD75-B379D4ED561A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5DF5CB-B100-4306-BD75-B379D4ED561A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D297713-1CBC-404B-B545-20CFA9F7BB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D297713-1CBC-404B-B545-20CFA9F7BB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D297713-1CBC-404B-B545-20CFA9F7BB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D297713-1CBC-404B-B545-20CFA9F7BB70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0159525C-B400-4C7B-883A-DDF3D9655D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0159525C-B400-4C7B-883A-DDF3D9655D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0159525C-B400-4C7B-883A-DDF3D9655D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0159525C-B400-4C7B-883A-DDF3D9655D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7931F941-442C-42D4-971F-B4B153CADE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7931F941-442C-42D4-971F-B4B153CADE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7931F941-442C-42D4-971F-B4B153CADE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7931F941-442C-42D4-971F-B4B153CADE27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF48B521-9AF2-4F85-B922-197937184C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF48B521-9AF2-4F85-B922-197937184C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF48B521-9AF2-4F85-B922-197937184C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF48B521-9AF2-4F85-B922-197937184C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B81F38-F21F-4F37-B284-04C36A657F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B81F38-F21F-4F37-B284-04C36A657F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B81F38-F21F-4F37-B284-04C36A657F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B81F38-F21F-4F37-B284-04C36A657F25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

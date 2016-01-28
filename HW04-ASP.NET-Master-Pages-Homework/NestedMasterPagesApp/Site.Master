@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="NestedMasterPagesApp.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="RootHead" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <h1>International Company Ltd.</h1>
+    <hr />
+    <nav>
+        <a href="/Bulgarian/Home.aspx">Bulgarian</a>
+        <a href="/English/Home.aspx">English</a>
+    </nav>
+   
+     <hr />
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="RootContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <footer>
+        Inter Company Ltd. 2016
+    </footer>
+</body>
+</html>
